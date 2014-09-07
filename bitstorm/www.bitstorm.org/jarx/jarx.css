@@ -1,0 +1,36 @@
+body {
+	background-color: white;
+	color: black;
+	font-family: "Trebuchet MS", Arial, Helvetica, Sans-serif;
+	margin: 0;
+}
+#body {
+	margin: 8px;
+}
+#logo {
+	background-color: #D6C5AD;
+	color: #6D524B;
+	border-bottom: 5px solid #6D524B;
+}
+#logo p {
+	padding-left: 100px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 4px;
+}
+#download {
+	color: #6D524B;
+	border: 2px solid #6D524B;
+	font-size: 120%;
+	padding: 10px;
+}
+#download a {
+	color: #6D524B;
+}
+td, th {
+	vertical-align: top;
+}
+
+table {
+	border-collapse: collapse;
+}
